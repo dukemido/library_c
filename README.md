@@ -25,4 +25,4 @@ Admin Tasks:
 - Most popular books
 
 # License
-This is released under MIT License
+This is released under MIT License.
