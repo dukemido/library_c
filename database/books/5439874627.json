@@ -1,0 +1,10 @@
+{
+	"Title":	"introduction to algorithm",
+	"ISBN":	"5439874627",
+	"Author":	"thomas cormen",
+	"Publisher":	"george newness",
+	"NoOfCopies":	30,
+	"CurrentAvailable":	29,
+	"Category":	1,
+	"DateOfPublish":	"20-6-1880"
+}

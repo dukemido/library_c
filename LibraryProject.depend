@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1513986113 source:f:\cceproject\libraryproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cJSON.h"
+	"BOOK.h"
+	"MEMBERS.h"
+	"date.h"
+	"ADMIN.h"
+
+1511649706 f:\cceproject\libraryproject\main.h
+
+1511398228 f:\cceproject\libraryproject\book.h
+
+1511395075 f:\cceproject\libraryproject\member.h
+
+1511398557 f:\cceproject\libraryproject\book.c
+	"main.h"
+	"book.h"
+	<stdio.h>
+
+1511400617 source:f:\cceproject\libraryproject\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1511400576 f:\cceproject\libraryproject\cjson.h
+	<stddef.h>
+
+1512135726 f:\cceproject\libraryproject\headers.h
+
+1514055563 f:\cceproject\libraryproject\include\book.h
+	"date.h"
+
+1514042264 source:f:\cceproject\libraryproject\src\book.c
+	"BOOK.h"
+	<stdio.h>
+	<string.h>
+	"../cJSON.h"
+	<dirent.h>
+	"BORROW.h"
+	<ctype.h>
+
+1514055337 source:f:\cceproject\libraryproject\src\members.c
+	"MEMBERS.h"
+	"BOOK.h"
+	"../cJSON.h"
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+
+1513970326 f:\cceproject\libraryproject\include\members.h
+	"BOOK.h"
+	"BORROW.h"
+
+1514052832 source:f:\cceproject\libraryproject\src\borrow.c
+	"BORROW.h"
+	"BOOK.h"
+	"MEMBERS.h"
+	"../cJSON.h"
+	<dirent.h>
+	<stdio.h>
+	<string.h>
+
+1514055560 f:\cceproject\libraryproject\include\borrow.h
+	"date.h"
+
+1514055566 f:\cceproject\libraryproject\include\date.h
+
+1513971403 source:f:\cceproject\libraryproject\src\date.c
+	"date.h"
+	<time.h>
+
+1514043898 source:f:\cceproject\libraryproject\src\admin.c
+	"ADMIN.h"
+	"BOOK.h"
+	"BORROW.h"
+
+1514043726 f:\cceproject\libraryproject\include\admin.h
+
+1514055347 source:f:\cceproject\libraryproject\src\validation.c
+	"validation.h"
+
+1514055481 f:\cceproject\libraryproject\include\validation.h
+

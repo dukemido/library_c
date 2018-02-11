@@ -1,0 +1,10 @@
+{
+	"Title":	"tom jones",
+	"ISBN":	"1789532787",
+	"Author":	"emest nister",
+	"Publisher":	"henry fielding",
+	"NoOfCopies":	5,
+	"CurrentAvailable":	3,
+	"Category":	2,
+	"DateOfPublish":	"18-5-1988"
+}

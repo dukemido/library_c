@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\BORROW.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="312" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\validation.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ADMIN.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1890" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="src\BOOK.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5062" topLine="106" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="27" />
+			<Collapse line="43" />
+			<Collapse line="52" />
+			<Collapse line="58" />
+			<Collapse line="64" />
+			<Collapse line="74" />
+		</Folding>
+	</File>
+	<File name="include\MEMBERS.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="176" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2678" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="src\MEMBERS.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1564" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="src\date.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3268" topLine="74" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="22" />
+			<Collapse line="31" />
+			<Collapse line="36" />
+		</Folding>
+	</File>
+	<File name="src\BORROW.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1915" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="20" />
+			<Collapse line="22" />
+			<Collapse line="24" />
+			<Collapse line="29" />
+			<Collapse line="34" />
+			<Collapse line="41" />
+		</Folding>
+	</File>
+	<File name="src\validation.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1675" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="include\date.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cJSON.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4154" topLine="133" />
+		</Cursor>
+	</File>
+	<File name="include\BOOK.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cJSON.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1206" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="include\ADMIN.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="32" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
